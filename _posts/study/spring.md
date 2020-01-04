@@ -1,4 +1,0 @@
-## Spring Study
-
-* IoC
-* AOP
